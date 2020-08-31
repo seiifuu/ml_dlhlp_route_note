@@ -23,23 +23,27 @@
 - [x] L10 CNN
   - [ ] *HW3 CNN*
   - [ ] L10.0.1 GNN 
-- [x] RNN
-  - [x] Semi-supervised ⭕
-  - [x] word embedding ⭕
+- [x] L21 RNN
+  - [x] L12 Semi-supervised ⭕
+  - [x] L14 word embedding ⭕
   - [ ] *HW4 RNN*
-- [ ] Seq2seq
+- [ ] Seq1 Seq2seq
+  - [ ] Seq2 Pointer
+  - [ ] Seq3 Recursive
+  - [ ] Seq4 Transformer
+  - [ ] Seq4.1 Transformer and its variant
   - [ ] *HW8 Seq2seq*
 
 ## DLHLP  	
 - [ ] Week1 Introduction
   - [ ] HW1 Speech Recognition 公告
 - [ ] Week2 Speech Recognition 1 2 3 
-  - [ ] 自学 HMM
+  - [ ] <自学> HMM
 - [ ] Week3 Speech Recognition 4 5 6
-  - [ ] 自学 n-gram LM		
+  - [ ] <自学> n-gram LM		
 - [ ] Week4 LM, Voice Conversion 1 2  
   - [ ] HW2: Voice Conversion 公告 
-  - [ ] 自学 VC
+  - [ ] <自学> VC
 - [ ] *HW1 Speech Recognition*
 - [ ] Week5 Speech Separation 1 2
 - [ ] Week6 Speech Synthesis 1 2
