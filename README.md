@@ -1,8 +1,10 @@
 # ML2020 & DLHLP
-## ML2020
 [ML2020 homepage](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html)
 <br />
 <img src="http://speech.ee.ntu.edu.tw/~tlkagk/HW.png" alt="drawing" width="400"/>
+- [x] 已上课 ⭕ 已整理
+
+## ML2020
 - [x] L0 Introduction, Rule
 - [x] L1 Regression
   - [x] *HW1 Regression*
@@ -15,20 +17,19 @@
   - [ ] *HW2 Classification*
 - [x] L6 Deep Learning
   - [x] L7 Backprop
-  - [ ] L9 Tips
-  - [ ] Why Deep
-- [ ] PyTorch Tutorial
-- [ ] L10 CNN
+  - [x] L9 Tips
+  - [x] Why Deep
+- [x] PyTorch Tutorial
+- [x] L10 CNN
   - [ ] *HW3 CNN*
   - [ ] L10.0.1 GNN 
-- [ ] RNN
-  - [ ] Semi-supervised
-  - [ ] word embedding
+- [x] RNN
+  - [x] Semi-supervised ⭕
+  - [x] word embedding ⭕
   - [ ] *HW4 RNN*
 - [ ] Seq2seq
   - [ ] *HW8 Seq2seq*
-  
-  
+
 ## DLHLP  	
 - [ ] Week1 Introduction
   - [ ] HW1 Speech Recognition 公告
