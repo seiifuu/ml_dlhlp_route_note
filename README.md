@@ -23,7 +23,7 @@
 - [x] L10 CNN
   - [ ] *HW3 CNN*
   - [ ] L10.0.1 GNN 
-- [x] L21 RNN
+- [x] L21 RNN ⭕
   - [x] L12 Semi-supervised ⭕
   - [x] L14 word embedding ⭕
   - [ ] *HW4 RNN*
