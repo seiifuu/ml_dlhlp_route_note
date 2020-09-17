@@ -27,9 +27,9 @@
   - [x] L12 Semi-supervised ⭕
   - [x] L14 word embedding ⭕
   - [ ] *HW4 RNN*
-- [x] Seq1 Seq2seq
-  - [x] Seq2 Pointer
-  - [ ] Seq3 Recursive
+- [x] Seq1 Seq2seq ⭕
+  - [x] Seq2 Pointer ⭕
+  - [x] Seq3 Recursive ⭕
   - [x] Seq4 Transformer ⭕
   - [ ] Seq4.1 Transformer and its variant
   - [ ] *HW8 Seq2seq*
