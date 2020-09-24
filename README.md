@@ -35,13 +35,13 @@
   - [ ] *HW8 Seq2seq*
 
 ## DLHLP  	
-- [ ] Week1 Introduction
-  - [ ] HW1 Speech Recognition 公告
-- [ ] Week2 Speech Recognition 1 2 3 
+- [x] Week1 Introduction
+  - [x] HW1 Speech Recognition 公告
+- [x] Week2 Speech Recognition 1 2 3 
   - [ ] <自学> HMM
-- [ ] Week3 Speech Recognition 4 5 6
+- [x] Week3 Speech Recognition 4 5 6
   - [ ] <自学> n-gram LM		
-- [ ] Week4 LM, Voice Conversion 1 2  
+- [x] Week4 LM, Voice Conversion 1 2  
   - [ ] HW2: Voice Conversion 公告 
   - [ ] <自学> VC
 - [ ] *HW1 Speech Recognition*
